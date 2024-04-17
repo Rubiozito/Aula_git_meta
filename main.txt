@@ -6,3 +6,8 @@ def soma (num1, num2):
 def subtrair(num1, num2): 
     res = num1 - num2
     return res
+
+def mult(num1, num2): 
+    res = num1 * num2
+    return res
+
